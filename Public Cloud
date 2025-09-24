@@ -1,0 +1,26 @@
+# ☁️ Kurzbeschreibung **Public Cloud**
+
+## Was bedeutet *Public Cloud*?
+Die **Public Cloud** wird von einem externen Cloud-Anbieter bereitgestellt und kann von der Allgemeinheit genutzt werden.  
+Die gesamte Infrastruktur befindet sich im Besitz und unter der Verwaltung des Anbieters.  
+
+---
+
+## Beispiele
+- **Amazon Web Services (AWS)**  
+- **Microsoft Azure**  
+- *Weitere*: Google Cloud Platform (GCP)  
+
+---
+
+## Grafik
+![Public Cloud](Bilder/PublicCloud.png)
+
+---
+
+## 📊 Vorteile & Nachteile
+| ✅ Vorteile                         | ❌ Nachteile                     |
+|-------------------------------------|----------------------------------|
+| Keine eigene Hardware nötig         | Abhängigkeit vom Anbieter        |
+| Hohe Skalierbarkeit                 | Datenschutz / Compliance-Themen  |
+| Pay-as-you-go (nur zahlen, was man nutzt) | Weniger Kontrolle über Infrastruktur |
