@@ -1,0 +1,21 @@
+🌐 Kurzbeschreibung Hybrid Cloud
+Was bedeutet Hybrid Cloud?
+Die Hybrid Cloud kombiniert Private und Public Clouds.
+Dadurch können Daten und Anwendungen zwischen beiden Welten geteilt werden.
+
+👉 Diese Konfiguration bietet:
+- Mehr Flexibilität
+- Unterschiedliche Deployment-Optionen
+- Optimale Nutzung von Kosten & Sicherheit
+
+Beispiele
+SBB: Kritische Systeme laufen in einer Private Cloud, während weniger kritische Anwendungen in die Public Cloud ausgelagert sind.
+Unternehmen allgemein: Sensible Kundendaten bleiben lokal, während Webseiten oder Shops in der Public Cloud betrieben werden.
+Grafik
+Hybrid Cloud
+
+Vorteile & Nachteile
+✅ Vorteile	❌ Nachteile
+Kombination aus Sicherheit & Flexibilität	Komplexere Verwaltung
+Kostenoptimierung möglich	Abhängigkeit von mehreren Anbietern
+Workloads frei verschiebbar	Erhöhte Anforderungen an IT-Know-how
