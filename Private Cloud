@@ -1,0 +1,20 @@
+🔒 Kurzbeschreibung Private Cloud
+Was bedeutet Private Cloud?
+Die Private Cloud wird ausschließlich von einer einzigen Organisation genutzt.
+Sie kann entweder:
+- on-premises (im eigenen Rechenzentrum) oder
+- extern gehostet (z. B. von einem Dienstleister)
+
+betrieben werden. Dadurch behalten Unternehmen mehr Kontrolle über ihre Daten und Sicherheit.
+
+Beispiele
+UBS betreibt eine Private Cloud, um sensible Kundendaten zu schützen.
+Regierungsorganisationen und Krankenhäuser nutzen Private Clouds für hochsensible Daten.
+Grafik
+Private Cloud
+
+Vorteile & Nachteile
+✅ Vorteile	❌ Nachteile
+Hohe Sicherheit & Datenschutz	Höhere Kosten (Hardware & Betrieb)
+Volle Kontrolle über Infrastruktur	Geringere Skalierbarkeit
+Individuell anpassbar	Wartung durch eigenes IT-Team nötig
