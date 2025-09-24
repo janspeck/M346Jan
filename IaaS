@@ -1,0 +1,28 @@
+🖥️ Kurzbeschreibung IaaS
+Was bedeutet IaaS ausgeschrieben?
+IaaS ist die Abkürzung für Infrastructure as a Service.
+Hierbei stellt der Cloud-Anbieter die Basis-Infrastruktur wie Rechenleistung, Speicher und Netzwerk zur Verfügung.
+
+Was passiert bei IaaS?
+Du bekommst vom Anbieter die Grundtechnik:
+- Virtuelle Server
+- Speicher
+- Netzwerk
+
+👉 Alles andere (Betriebssysteme, Anwendungen, Updates) liegt in deiner Verantwortung.
+
+Beispiele
+Amazon EC2
+Microsoft Azure Virtual Machines
+Google Compute Engine
+Grafik
+IaaS Grafik
+
+Legende
+<span style="color:blue">Blau</span> → Durch den Kunden erbrachte Leistung
+<span style="color:green">Grün</span> → Durch den Service-Anbieter erbrachte Leistung
+✅ Vorteile & ❌ Nachteile
+Vorteile	Nachteile
+Hohe Flexibilität	Verantwortung für Betriebssysteme
+Skalierbar nach Bedarf	Fachwissen für Administration nötig
+Keine Hardware-Anschaffung nötig	Kosten können bei Dauerlast steigen
